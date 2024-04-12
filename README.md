@@ -1,7 +1,9 @@
 BANK MANAGEMENT SYSTEM:
+
 This is a simple command-line bank management system implemented in C. It allows users to perform various banking operations such as creating an account, depositing money, withdrawing money, transferring funds between accounts, and managing account details.
 
 Features:
+
 Create Account: Users can create a new bank account by providing their name, initial balance, account type, password, and recovery question.
 Show Account Details: Display account details including account number, name, balance, account type, recovery question, and answer.
 Deposit Money: Allow users to deposit money into their account after authentication.
